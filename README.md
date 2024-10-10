@@ -19,7 +19,11 @@ Visualization: Interactive charts and graphs to help users understand market tre
 Technologies Used
 
 Python
+
 Pandas
+
 NumPy
+
 Excel
+
 Power BI
