@@ -17,6 +17,7 @@ Predictive Modeling: Basic machine learning models to predict future stock price
 Visualization: Interactive charts and graphs to help users understand market trends and stock performance visually.
 
 Technologies Used
+
 Python
 Pandas
 NumPy
